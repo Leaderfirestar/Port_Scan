@@ -1,1 +1,2 @@
 # Port_Scan
+Along with Kattis programming challenges, I sought to teach myself basic java by trying to do "simple tasks." One simple task I've read is creating a basic tcp port scanner. This project does just that. After completing the 3-way handshake, the connection is killed and returns that the port is open. In the future, I'd like to improve the switches on it, and upgrade this to be a syn scanner.
